@@ -1,0 +1,39 @@
+country_id,country_code,country
+0,EU27_2020,European Union - 27 countries (from 2020)
+1,EA21,Euro area – 21 countries (from 2026)
+2,BE,Belgium
+3,BG,Bulgaria
+4,CZ,Czechia
+5,DK,Denmark
+6,DE,Germany
+7,EE,Estonia
+8,IE,Ireland
+9,EL,Greece
+10,ES,Spain
+11,FR,France
+12,HR,Croatia
+13,IT,Italy
+14,CY,Cyprus
+15,LV,Latvia
+16,LT,Lithuania
+17,LU,Luxembourg
+18,HU,Hungary
+19,MT,Malta
+20,NL,Netherlands
+21,AT,Austria
+22,PL,Poland
+23,PT,Portugal
+24,RO,Romania
+25,SI,Slovenia
+26,SK,Slovakia
+27,FI,Finland
+28,SE,Sweden
+29,IS,Iceland
+30,NO,Norway
+31,CH,Switzerland
+32,UK,United Kingdom
+33,BA,Bosnia and Herzegovina
+34,MK,North Macedonia
+35,TR,Türkiye
+36,US,United States
+37,JP,Japan
